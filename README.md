@@ -70,10 +70,10 @@ AquaCalc is a web application developed with Django, aimed at helping clients cr
 
 ### 📜 Certifications
 
-- **SoftUni Certificates**: [click here](#)
+- **SoftUni Certificates**: [click here](https://github.com/SimeonZhelinski/SimeonZhelinski/tree/main/Certificates)
 - **SoftUni Diplomas**: 
-  - Python Web Developer: [click here](#) 
-  - Python Full-Stack Developer: [click here](#)
+  - Python Web Developer: [click here](https://github.com/SimeonZhelinski/SimeonZhelinski/blob/main/Diplomas/Diploma%20for%20Python%20Web%20Developer.pdf) 
+  - Python Full-Stack Developer: [click here](https://github.com/SimeonZhelinski/SimeonZhelinski/blob/main/Diplomas/Diploma%20for%20Python%20Full-Stack%20Developer.pdf)
 
 ---
 
