@@ -63,8 +63,11 @@
 - **[Tkinter-based text editor](https://github.com/SimeonZhelinski/Tkinter-text-editor)**  
 This Tkinter-based text editor offers a simple and intuitive interface for creating and editing text files. It features auto-updating line numbers, basic file operations like New, Open, Save, and Save As, and a modern look thanks to ttkbootstrap theming. The editor is lightweight, easy to navigate, and prompts users to save changes before closing or switching files, making it a handy tool for quick text editing tasks.
 
-- **[RockPaperScissorsGUI](https://github.com/SimeonZhelinski/RockPaperScissors.GUI)**  
+- **[RockPaperScissors GUI](https://github.com/SimeonZhelinski/RockPaperScissors.GUI)**  
 The Rock Paper Scissors GUI is a graphical version of the classic game, developed using Pygame. This application features an interface that allows players to easily select their moves and compete against the computer. Players can track their game statistics, including total games played, wins, losses, draws, and win percentage.
+
+- **[File Organizer GUI](https://github.com/SimeonZhelinski/file_organizer)**  
+The File Organizer GUI is a graphical application that simplifies sorting files in a specified directory by type (images, documents, audio, video) and date. It features an interface for selecting directories, browsing files, and initiating the organization process. Files are categorized into designated folders based on their extensions, with processed file names displayed in a text box. Users can also export a list of processed files to a text file.
 
 - **[What I'm Currently Working On: AquaCalc app]**  
 AquaCalc is a web application developed with Django, aimed at helping clients create various types of water supply and sewage system projects. It calculates dimensional and parameter details and estimates project execution costs based on current material and labor prices. The updated version includes Google and Facebook sign-in/up, a better front-end, more complex calculations for additional building types, and enhanced profile capabilities that were absent in the original version and much more...
