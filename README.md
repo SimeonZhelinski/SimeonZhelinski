@@ -57,7 +57,7 @@
 
 ### 🛠️ Projects & What I'm Working On
 
-- **[Water Supply & Sewerage Project Manager App](https://github.com/SimeonZhelinski/wss_app)**  
+- **[Water Supply & Sewerage Project Manager App](https://github.com/SimeonZhelinski/wss_project_manager)**  
   WSS is a web application developed with Django. The main goal of the application is for clients to create various types of projects, with the data allowing for the calculation of dimensional and parameter details for water supply and sewage systems. For one of the projects, an approximate cost for project execution is calculated based on current prices for materials and labor.
 
 - **[Tkinter-based text editor](https://github.com/SimeonZhelinski/Tkinter-text-editor)**  
