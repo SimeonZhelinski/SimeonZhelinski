@@ -83,12 +83,6 @@ AquaCalc is a web application developed with Django, aimed at helping clients cr
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SimeonZhelinski&theme=radical" />
-</p>
-
 ### 📫 How to Reach Me
 
 - LinkedIn: [click here](https://www.linkedin.com/in/simeon-zhelinski-630a2084/)
